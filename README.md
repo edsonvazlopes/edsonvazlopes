@@ -1,13 +1,14 @@
-# Edson Vaz Lopes
+## Sobre mim
 
-`Doutorando em Engenharia Elétrica | Professor de Engenharia de Software e Robótica`
+Edson Vaz Lopes é doutorando em Engenharia Elétrica (UDESC), com ênfase em Engenharia Biomédica, onde treina redes neurais e desenvolve softwares e hardwares para aplicações em saúde e alimentação. Atua também como professor na área de Engenharia de Software, lecionando programação, desenvolvimento Web, robótica e IoT.
 
-Sou doutorando em Engenharia Elétrica pela Universidade do Estado de Santa Catarina (UDESC), com ênfase em engenharia biomédica. Sou professor de Engenharia de Software e Robótica. Sou graduado em Licenciatura em Física e mestre em Ensino de Ciências, Matemática e Tecnologias (UDESC). Na graduação desenvolvi trabalhos na área de ensino e computação quântica; no mestrado, robótica educacional e programação. Também sou produtor musical, compositor, multi-instrumentista, cantor e engenheiro de mixagem/masterização. Já fui mecânico, vendedor, agricultor, marceneiro, etc.
-
-📚 Ensino por investigação e alfabetização científica  
-🔬 Robótica educacional e engenharia biomédica  
-🖥️ C, Python, Arduino, Raspberry Pi, Fortran e App Inventor  
-📄 Escrita acadêmica em LaTeX  
+* Pesquisa: IA (redes neurais) + sistemas embarcados + integração hardware/software (engenharia biomédica)
+* Docência: programação, Web, robótica, IoT; ensino por investigação e alfabetização científica; robótica educacional
+* Infra & Dev: Linux/Windows, Git, Docker, bancos de dados (MariaDB)
+* Tecnologias: C, Python, Arduino, Raspberry Pi, Fortran e App Inventor
+* Escrita acadêmica: LaTeX
+* Background: Licenciatura em Física (UDESC, 2018) e Mestrado Profissional em Ensino de Ciências, Matemática e Tecnologias (UDESC, 2022)
+* Extra: produtor musical, compositor, multi-instrumentista, cantor e engenheiro de mixagem/masterização
 
 ---
 
