@@ -14,8 +14,8 @@ Edson Vaz Lopes é doutorando em Engenharia Elétrica (UDESC), com ênfase em En
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edsonvazlopes/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-    <a href="https://www.instagram.com/edson_vaz_lopes/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.youtube.com/channel/UCtSj8jlGO5fhpW8kA3-CiXg?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCtSj8jlGO5fhpW8kA3-CiXg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" alt="YouTube Inscreva-se"></a>
+    <a href="https://www.instagram.com/edson_vaz_lopes/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
+  <a href="https://www.youtube.com/channel/UCtSj8jlGO5fhpW8kA3-CiXg?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCtSj8jlGO5fhpW8kA3-CiXg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" alt="YouTube Inscreva-se"></a>&nbsp;
   <a href="https://www.tiktok.com/@prof_edson_vaz_lopes" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 </p>
 
