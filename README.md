@@ -64,6 +64,16 @@ Edson Vaz Lopes é doutorando em Engenharia Elétrica (UDESC), com ênfase em En
 
 ---
 
+## Áreas de atuação
+
+- Inteligência Artificial aplicada à saúde  
+- Engenharia Biomédica  
+- Sistemas embarcados  
+- Desenvolvimento Web  
+- Robótica educacional
+
+---
+
 ## Projetos em destaque
 
 - **EGLUCO** — plataforma de monitoramento inteligente voltada a aplicações em saúde e glicose, integrando hardware, software e análise de dados.
