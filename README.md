@@ -1,11 +1,7 @@
 <h1 align="center">Edson Vaz Lopes</h1>
 
 <p align="center">
-  Doutorando em Engenharia Elétrica • Engenharia Biomédica • IA • Sistemas Embarcados • Software
-</p>
-
-<p align="center">
-  Professor de Engenharia de Software, desenvolvimento Web, robótica e IoT.
+Doutorando em Engenharia Elétrica • Professor de Engenharia de Software • Research Engineer • Biomedical AI • Embedded Systems • Software
 </p>
 
 ---
