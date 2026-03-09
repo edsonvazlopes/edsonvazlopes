@@ -39,8 +39,29 @@ Edson Vaz Lopes é doutorando em Engenharia Elétrica (UDESC), com ênfase em En
 ## Estatísticas
 
 <p align="center">
-  <img alt="GitHub Stats" height="200"
-    src="https://github-readme-stats.vercel.app/api?username=edsonvazlopes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br">
-  <img alt="Top Langs" height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonvazlopes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=edsonvazlopes&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true&rank_icon=github"
+    alt="Estatísticas do GitHub de Edson Vaz Lopes"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonvazlopes&theme=tokyonight&layout=compact&locale=pt-br&langs_count=8&custom_title=Tecnologias%20mais%20usadas"
+    alt="Tecnologias mais usadas por Edson Vaz Lopes"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=edsonvazlopes&theme=tokyonight&locale=pt_BR"
+    alt="Sequência de contribuições de Edson Vaz Lopes"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=edsonvazlopes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12"
+    alt="Troféus do GitHub de Edson Vaz Lopes"
+  />
 </p>
