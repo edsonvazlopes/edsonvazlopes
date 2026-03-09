@@ -1,6 +1,10 @@
 <h1 align="center">Edson Vaz Lopes</h1>
 
 <p align="center">
+Research Engineer • Biomedical AI • Embedded Systems • Software
+</p>
+
+<p align="center">
   Doutorando em Engenharia Elétrica • Engenharia Biomédica • IA • Sistemas Embarcados • Software
 </p>
 
@@ -72,6 +76,16 @@ Edson Vaz Lopes é doutorando em Engenharia Elétrica (UDESC), com ênfase em En
 - **Nicho** — sistema de organização de conhecimento, anotações e estruturação pessoal de informação.
 - **SharePayMini** — aplicação para gestão de despesas compartilhadas entre pessoas, famílias, casais ou equipes.
 - **Letras VNUV** — portal dedicado à organização, publicação e expansão de obras musicais, letras e páginas relacionadas ao universo autoral.
+
+---
+
+## Áreas de atuação
+
+- Inteligência Artificial aplicada à saúde  
+- Engenharia Biomédica  
+- Sistemas embarcados  
+- Desenvolvimento Web  
+- Robótica educacional
 
 ---
 
