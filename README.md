@@ -18,8 +18,6 @@ Edson Vaz Lopes é doutorando em Engenharia Elétrica (UDESC), com ênfase em En
 - **Background:** Licenciatura em Física (UDESC, 2018) e Mestrado Profissional em Ensino de Ciências, Matemática e Tecnologias (UDESC, 2022)
 - **Extra:** produtor musical, compositor, multi-instrumentista, cantor e engenheiro de mixagem/masterização
 
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/edsonvazlopes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
