@@ -32,7 +32,7 @@ Edson Vaz Lopes é doutorando em Engenharia Elétrica (UDESC), com ênfase em En
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a><!--
   --><a href="https://edsonvazlopes.vnuv.net/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Site%20Pessoal-2d2d2d?style=for-the-badge&logo=aboutdotme&logoColor=purple" alt="Site pessoal" />
+    <img src="https://img.shields.io/badge/Site%20Pessoal-2d2d2d?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Site pessoal" />
   </a><!--
   --><img src="https://komarev.com/ghpvc/?username=edsonvazlopes&style=for-the-badge&color=blue" alt="Contador de visitas" />
 </p>
